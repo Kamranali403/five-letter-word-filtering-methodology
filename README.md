@@ -73,7 +73,7 @@ This methodology can support:
 
 Readers who prefer to apply these filters without writing code can use the [interactive five-letter word finder on WordHubPro](https://wordhubpro.com/).
 
-WordHubPro combines starting, ending, included, excluded and position-based filters with a Wordle-style solver and word unscrambler.
+WordHubPro combines starting, ending, included, excluded and position-based filters with a [Wordle-style solver](https://wordhubpro.com/wordle-solver/) and word unscrambler.
 
 ## Future additions
 
