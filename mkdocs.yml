@@ -1,0 +1,13 @@
+site_name: WordHubPro Five-Letter Word Filtering Guide
+site_description: Technical documentation for filtering and solving five-letter word patterns.
+site_url: !ENV READTHEDOCS_CANONICAL_URL
+
+theme:
+  name: readthedocs
+
+nav:
+  - Introduction: index.md
+  - Filtering Method: filtering-method.md
+  - Repeated Letters: repeated-letters.md
+  - Practical Examples: examples.md
+  - Resources: resources.md
